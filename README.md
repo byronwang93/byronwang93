@@ -1,5 +1,5 @@
 ### ✨ Welcome to my profile! ✨ 
-I'm an incoming 4th year student studying computer science + microbiology and immunology at the UBC with a passion for tech! Currently, I'm focusing on polishing up my frontend/fullstack skills, so feel free to poke around!
+I'm an incoming 4th year student studying computer science + microbiology and immunology at UBC with a passion for tech! Currently, I'm focusing on polishing up my frontend/fullstack skills, so feel free to poke around!
 
 I'm always open to meeting new developers so if you want to connect or chat, feel free to reach me at byronwang123919@gmail.com or connect with me at https://www.linkedin.com/in/byronwang93/!
 
