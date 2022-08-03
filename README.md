@@ -4,7 +4,7 @@ I'm Byron, a caffeine enthusiast and an incoming 4th year student studying compu
 I'm always open to meeting new developers so if you want to connect or chat, feel free to reach me at byronwang123919@gmail.com or connect with me at https://www.linkedin.com/in/byronwang93/!
 
 
-[![Byron's GitHub stats](https://github-readme-stats.vercel.app/api?username=byronwang93)](https://github.com/byronwang93/github-readme-stats)
+![Byron's GitHub stats](https://github-readme-stats.vercel.app/api?username=byronwang93&show_icons=true&theme=radical)
 
 <!--
 **byronwang93/byronwang93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
