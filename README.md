@@ -37,13 +37,6 @@ const ByronWang = {
             'CSS'
             ],
         tools : ['GitHub', 'VSCode', 'Canva', 'Figma', 'Docker']
-    },
-    
-    interests : {
-        leisure : ['netflix', 'napping', 'being bad at the piano', 'drawing'],
-        sports : ['badminton', 'ping pong', 'swimming', 'working out'],
-        games : ['mario kart', 'super smash'],
-        bucket-list : ['scuba diving', 'sky diving', 'wakeboarding']
     }
 
 }
