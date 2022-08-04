@@ -3,6 +3,27 @@ I'm Byron, a caffeine enthusiast and an incoming 4th year student studying compu
 
 I'm always open to meeting new developers so if you want to connect or chat, feel free to reach me at byronwang123919@gmail.com or connect with me at https://www.linkedin.com/in/byronwang93/!
 
+```typescript
+const ByronWang = {
+
+    education : {
+        school : 'University Of British Columbia',
+        major : 'Combined Computer Science + Microbiology & Immunology',
+        year : 'incoming 4th year'
+    },
+    
+    currently : 'Web-developer Co-op @ PDFTron Systems Inc',
+    
+    skills : {
+        techStack : ['JavaScript', 'TypeScript', 'React.js', 'Node.js', 'Git', 'C++', 'Java', 'R', 'SQL', 'HTML', 'CSS'],
+        tools : ['GitHub', 'VSCode', 'Canva', 'Figma', 'Docker']
+    },
+    
+    hobbies : {
+    
+    }
+}
+```
 
 ![Byron's GitHub stats](https://github-readme-stats.vercel.app/api?username=byronwang93&show_icons=true&theme=radical)
 
