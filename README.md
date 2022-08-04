@@ -15,12 +15,24 @@ const ByronWang = {
     currently : 'Web-developer Co-op @ PDFTron Systems Inc',
     
     skills : {
-        techStack : ['JavaScript', 'TypeScript', 'React.js', 'Node.js', 'Git', 'C++', 'Java', 'R', 'SQL', 'HTML', 'CSS'],
+        techStack : [
+            'JavaScript', 
+            'TypeScript', 
+            'React.js', 
+            'Node.js', 
+            'Git', 
+            'C++', 
+            'Java', 
+            'R', 
+            'SQL', 
+            'HTML', 
+            'CSS'
+            ],
         tools : ['GitHub', 'VSCode', 'Canva', 'Figma', 'Docker']
     },
     
-    hobbies : {
-    
+    interests : {
+        
     }
 }
 ```
