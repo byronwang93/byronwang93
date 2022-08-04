@@ -6,7 +6,13 @@ I'm always open to meeting new developers so if you want to connect or chat, fee
 ```javascript
 const ByronWang = {
 
-    mood : 'alan sucks',
+    mood : 'caffeinated🔋',
+    
+    personal : {
+        pronouns : 'he/him/his',
+        age : 20,
+        located : "Surrey, BC"
+    },
 
     education : {
         school : 'University Of British Columbia',
@@ -33,7 +39,12 @@ const ByronWang = {
         tools : ['GitHub', 'VSCode', 'Canva', 'Figma', 'Docker']
     },
     
-    interests : []
+    interests : {
+        leisure : ['netflix', 'napping', 'being bad at the piano', 'drawing'],
+        sports : ['badminton', 'ping pong', 'swimming', 'working out'],
+        games : ['mario kart', 'super smash'],
+        bucket-list : ['scuba diving', 'sky diving', 'wakeboarding']
+    }
 
 }
 ```
