@@ -1,7 +1,4 @@
 ### ✨ Welcome to my profile! ✨ 
-I'm Byron, a caffeine enthusiast and an incoming 4th year student studying computer science + microbiology and immunology at UBC with a passion for tech! Currently, I'm focusing on polishing up my frontend/fullstack skills, so feel free to poke around!
-
-I'm always open to meeting new developers so if you want to connect or chat, feel free to reach me at byronwang123919@gmail.com or connect with me at https://www.linkedin.com/in/byronwang93/!
 
 ```javascript
 const ByronWang = {
@@ -43,6 +40,12 @@ const ByronWang = {
 ```
 
 ![Byron's GitHub stats](https://github-readme-stats.vercel.app/api?username=byronwang93&show_icons=true&theme=radical)
+
+### ☀️ Contact Me ☀️
+
+I'm currently dipping into the backend world to get more experience in fullstack development, so feel free to poke around!
+
+I'm also always open to meeting new developers so if you want to connect or chat, feel free to reach me at byronwang123919@gmail.com or connect with me at https://www.linkedin.com/in/byronwang93/!
 
 <!--
 **byronwang93/byronwang93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
