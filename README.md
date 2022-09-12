@@ -7,7 +7,7 @@ const ByronWang = {
     
     personal : {
         pronouns : 'he/him/his',
-        age : 20,
+        age : 21,
         located : "Surrey, BC"
     },
 
