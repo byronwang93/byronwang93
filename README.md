@@ -41,9 +41,11 @@ const ByronWang = {
 
 ![Byron's GitHub stats](https://github-readme-stats.vercel.app/api?username=byronwang93&show_icons=true&theme=radical)
 
-### ☀️ Contact Me ☀️
+### 🌱 More About Me 🌱
 
-I'm currently dipping into the backend world to get more experience in fullstack development, so feel free to poke around!
+I'm currently a frontend developer trying to get more experience in the fullstack world. In my free time, you'll likely see me playing ping pong, doodling or attempting to learn to animate (a personal goal of mine for 2022)!
+
+### ☀️ Contact Me ☀️
 
 I'm also always open to meeting new developers so if you want to connect or chat, feel free to reach me at byronwang123919@gmail.com or connect with me at https://www.linkedin.com/in/byronwang93/!
 
