@@ -43,7 +43,10 @@ const ByronWang = {
 
 ### 🌱 More About Me 🌱
 
-I'm currently a frontend developer trying to get more experience in the fullstack world. In my free time, you'll likely see me playing ping pong, doodling or attempting to learn to animate (a personal goal of mine for 2022)!
+Originally coming from the health sciences field, I made the switch to pursue a career in computer science January of 2021. I'm currently a frontend developer trying to get more experience in the fullstack world. If you catch me outside of the coding booth, you'll likely see me doing one of the following:
+- playing ping pong
+- doodling and attempting to learn how to animate
+- playing piano
 
 ### ☀️ Contact Me ☀️
 
