@@ -1,6 +1,6 @@
 ### ✨ Welcome to my profile! ✨ 
 
-Read more about me @ www.byronwang.com!
+Read more about me @ https://byronwang.netlify.app/!
 
 ```javascript
 const ByronWang = {
