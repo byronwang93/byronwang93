@@ -41,7 +41,6 @@ const ByronWang = {
 }
 ```
 
-![Byron's GitHub stats](https://github-readme-stats.vercel.app/api?username=byronwang93&show_icons=true&theme=radical)
 
 ### 🌱 More About Me 🌱
 
