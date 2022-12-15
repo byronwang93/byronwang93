@@ -16,7 +16,7 @@ const ByronWang = {
     education : {
         school : 'University Of British Columbia',
         major : 'Combined Computer Science + Microbiology & Immunology',
-        year : 'incoming 4th year'
+        year : '4'
     },
     
     currently : 'Web-developer Co-op @ PDFTron Systems Inc',
