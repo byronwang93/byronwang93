@@ -18,7 +18,9 @@ const ByronWang = {
     year: "4",
   },
 
-  currently: "Web-developer Co-op @ PDFTron Systems Inc",
+  incoming: "TBD :)",
+
+  previously: "Web-developer Co-op @ PDFTron Systems Inc",
 
   skills: {
     techStack: [
