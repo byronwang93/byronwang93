@@ -36,7 +36,7 @@ const ByronWang = {
       "HTML",
       "CSS",
     ],
-    tools: ["GitHub", "VSCode", "Canva", "Figma", "Docker"],
+    tools: ["GitHub", "VSCode", "Figma", "Docker"],
   },
 };
 ```
