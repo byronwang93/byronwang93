@@ -30,6 +30,7 @@ const ByronWang = {
       "Node.js",
       "Git",
       "C++",
+      "C",
       "Java",
       "R",
       "SQL",
