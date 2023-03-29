@@ -51,7 +51,7 @@ Originally coming from the health sciences field, I made the switch to pursue a 
 
 ### ☀️ Contact Me ☀️
 
-I'm also always open to meeting new developers so if you want to connect or chat, feel free to reach me at byronwang93@gmail.com or connect with me at https://www.linkedin.com/in/byronwang93/!
+I'm also always open to meeting new people so if you want to connect or chat, feel free to reach me at byronwang93@gmail.com or connect with me at https://www.linkedin.com/in/byronwang93/! Whether you're a current or aspiring developer OR just someone who appreciates a cup of coffee, let's chat! :)
 
 <!--
 **byronwang93/byronwang93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
