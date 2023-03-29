@@ -41,8 +41,6 @@ const ByronWang = {
 };
 ```
 
-![Byron's GitHub stats](https://github-readme-stats.vercel.app/api?username=byronwang93&show_icons=true&theme=radical)
-
 ### 🌱 More About Me 🌱
 
 Originally coming from the health sciences field, I made the switch to pursue a career in computer science January of 2021. I'm currently a frontend developer trying to get more experience in the fullstack world. If you catch me outside of the coding booth, you'll likely see me doing one of the following:
