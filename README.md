@@ -18,7 +18,7 @@ const ByronWang = {
     year: "4",
   },
 
-  incoming: "Software Developer Co-op @ PayByPhone",
+  currently: "Software Developer Co-op @ PayByPhone",
 
   previously: "Web-developer Co-op @ PDFTron Systems Inc",
 
