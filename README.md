@@ -15,7 +15,7 @@ const ByronWang = {
   education: {
     school: "University Of British Columbia",
     major: "Combined Computer Science + Microbiology & Immunology",
-    year: "4",
+    year: "incoming 5th",
   },
 
   currently: "Software Developer Co-op @ PayByPhone",
