@@ -33,6 +33,8 @@ const ByronWang = {
       "Java",
       "R",
       "SQL",
+      "Firebase",
+      "Express",
       "HTML",
       "CSS",
     ],
