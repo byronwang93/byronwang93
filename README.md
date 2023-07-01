@@ -20,7 +20,7 @@ const ByronWang = {
 
   currently: "Software Developer Co-op @ PayByPhone",
 
-  previously: "Web-developer Co-op @ PDFTron Systems Inc",
+  previously: "Web-developer Co-op @ Apryse",
 
   skills: {
     techStack: [
@@ -34,7 +34,7 @@ const ByronWang = {
       "R",
       "SQL",
       "Firebase",
-      "Express",
+      "Express.js",
       "HTML",
       "CSS",
     ],
