@@ -45,11 +45,12 @@ const ByronWang = {
 
 ### 🌱 More About Me 🌱
 
-Originally coming from the health sciences field, I made the switch to pursue a career in computer science January of 2021. I'm currently a frontend developer trying to get more experience in the fullstack world. If you catch me outside of the coding booth, you'll likely see me doing one of the following:
+Originally coming from the health sciences field, I made the switch to pursue a career in computer science January of 2021 and I've never looked back! If you catch me outside of the coding booth, you'll likely see me doing one of the following:
 
 - playing ping pong
 - doodling and making fun animations (peep my youtube channel https://www.youtube.com/channel/UCtNVS3vcyncIzCj_dKQdQBA 👀)
 - struggle at playing the piano
+- bowling bowling BOWLING
 
 ### ☀️ Contact Me ☀️
 
