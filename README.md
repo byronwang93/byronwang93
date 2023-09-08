@@ -50,7 +50,7 @@ Originally coming from the health sciences field, I made the switch to pursue a 
 - playing ping pong
 - doodling and making fun animations (peep my youtube channel https://www.youtube.com/channel/UCtNVS3vcyncIzCj_dKQdQBA 👀)
 - struggle at playing the piano
-- bowling bowling BOWLING
+- bowling 😌
 
 ### ☀️ Contact Me ☀️
 
