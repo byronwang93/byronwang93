@@ -18,9 +18,12 @@ const ByronWang = {
     year: "5th year",
   },
 
-  currently: "Software Developer Intern @ PayByPhone",
+  currently: "Looking for 2024 summer internship",
 
-  previously: "Web Developer Intern @ Apryse",
+  previously: [
+    "Software Developer Intern @ PayByPhone",
+    "Web Developer Intern @ Apryse"
+  ],
 
   skills: {
     techStack: [
