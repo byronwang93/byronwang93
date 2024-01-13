@@ -27,8 +27,8 @@ const ByronWang = {
 
   skills: {
     techStack: [
-      "JavaScript",
       "TypeScript",
+      "JavaScript",
       "React.js",
       "Python",
       "Node.js",
