@@ -53,8 +53,8 @@ const ByronWang = {
 Originally coming from the health sciences field, I made the switch to pursue a career in computer science January of 2021 and I've never looked back! If you catch me outside of the coding booth, you'll likely see me doing one of the following:
 
 - doodling and making fun animations (peep my youtube channel https://www.youtube.com/channel/UCtNVS3vcyncIzCj_dKQdQBA 👀)
-- learning how to make games with my oculus 👓
-- bowling 😌
+- messing around with my oculus 👓 (gotta see what all the hype's about)
+- trying to hit a PB in bowling 🎳
 
 ### ☀️ Contact Me ☀️
 
