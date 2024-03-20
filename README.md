@@ -22,7 +22,7 @@ const ByronWang = {
 
   previously: [
     "Software Developer Intern @ PayByPhone",
-    "Web Developer Intern @ Apryse"
+    "Software Developer Intern @ Apryse"
   ],
 
   skills: {
