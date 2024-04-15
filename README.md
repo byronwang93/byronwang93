@@ -14,7 +14,7 @@ const ByronWang = {
 
   education: {
     school: "University Of British Columbia",
-    major: "Combined Computer Science + Microbiology & Immunology",
+    major: "Computer Science + Microbiology & Immunology",
     year: "5th year",
   },
 
