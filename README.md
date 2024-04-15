@@ -18,7 +18,7 @@ const ByronWang = {
     year: "5th year",
   },
 
-  currently: "Looking for 2024 summer internship",
+  currently: "Looking for 2024 fall internship",
 
   previously: [
     "Software Developer Intern @ PayByPhone",
@@ -43,7 +43,7 @@ const ByronWang = {
       "HTML",
       "CSS",
     ],
-    tools: ["GitHub", "VSCode", "Figma", "Docker"],
+    tools: ["GitHub", "VSCode", "Unity", "Figma", "Docker"],
   },
 };
 ```
