@@ -55,6 +55,7 @@ Originally coming from the health sciences field, I made the switch to pursue a 
 - hopping on the VR hype and messing around with my oculus 👓
 - doodling and making fun animations (peep my youtube channel https://www.youtube.com/channel/UCtNVS3vcyncIzCj_dKQdQBA 👀)
 - trying to hit a PB in bowling 🎳
+- playing a game of chess ♖
 
 ### ☀️ Contact Me ☀️
 
