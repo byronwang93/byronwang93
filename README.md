@@ -18,7 +18,7 @@ const ByronWang = {
     year: "5th year",
   },
 
-  currently: "Full Stack Developer @ TheCreativeSolution",
+  currently: "Full Stack Developer @ The Creative Solution",
 
   previously: [
     "Software Developer Intern @ PayByPhone",
