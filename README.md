@@ -8,7 +8,7 @@ const ByronWang = {
 
   personal: {
     pronouns: "he/him/his",
-    age: 22,
+    age: 23,
     located: "Canada 🇨🇦",
   },
 
@@ -18,7 +18,7 @@ const ByronWang = {
     year: "5th year",
   },
 
-  currently: "Full Stack Developer @ The Creative Solution",
+  currently: "Software Developer @ Tesla",
 
   previously: [
     "Software Developer Intern @ PayByPhone",
