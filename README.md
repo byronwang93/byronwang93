@@ -39,6 +39,7 @@ const ByronWang = {
       "Java",
       "R",
       "SQL",
+      "SQLite",
       "Firebase",
       "Express.js",
       "HTML",
