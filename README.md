@@ -2,7 +2,7 @@
 
 Read more about me @ www.byronwang.com!
 
-### 🌱 More About Me 🌱
+### 🌱 About Me 🌱
 
 Originally coming from the health sciences field, I made the switch to pursue a career in computer science January of 2021 and I've never looked back! If you catch me outside of the coding booth, you'll likely see me doing one of the following:
 
