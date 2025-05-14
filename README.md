@@ -2,54 +2,6 @@
 
 Read more about me @ www.byronwang.com!
 
-```javascript
-const ByronWang = {
-  mood: "caffeinated🔋",
-
-  personal: {
-    pronouns: "he/him/his",
-    age: 23,
-    located: "Canada 🇨🇦",
-  },
-
-  education: {
-    school: "University Of British Columbia",
-    major: "Computer Science + Microbiology & Immunology",
-    year: "5th year",
-  },
-
-  currently: "New Grad Search",
-
-  prev: [
-    "Tesla",
-    "PayByPhone",
-    "Apryse"
-  ],
-
-  skills: {
-    techStack: [
-      "TypeScript",
-      "JavaScript",
-      "React.js",
-      "Python",
-      "Node.js",
-      "Git",
-      "C#",
-      "C++",
-      "Java",
-      "R",
-      "SQL",
-      "SQLite",
-      "Firebase",
-      "Express.js",
-      "HTML",
-      "CSS",
-    ],
-    tools: ["GitHub", "VSCode", "Unity", "Figma", "Docker"],
-  },
-};
-```
-
 ### 🌱 More About Me 🌱
 
 Originally coming from the health sciences field, I made the switch to pursue a career in computer science January of 2021 and I've never looked back! If you catch me outside of the coding booth, you'll likely see me doing one of the following:
